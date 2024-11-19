@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding:0;
+}
+#section1{
+    background-color: #acd5de;
+}
+.txt{
+    margin-top:100px;
+}
+.links{
+    display: flex;
+    gap:20px;
+}
+li{
+    list-style: none;
+}
